@@ -1,0 +1,35 @@
+.HERO {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+.HERO form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.inputs input {
+  font-size: 20px;
+  padding: 5px;
+}
+.btns {
+  display: flex;
+  justify-content: flex-end;
+}
+.btns button {
+  font-size: 20px;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  transition: all 0.5s;
+}
+.btns button:hover {
+  background-color: rgb(194, 194, 194);
+}

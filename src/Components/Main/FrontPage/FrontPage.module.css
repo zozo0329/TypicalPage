@@ -1,0 +1,12 @@
+.welcome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+.welcome h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  padding: 0px;
+  margin: 0px;
+}

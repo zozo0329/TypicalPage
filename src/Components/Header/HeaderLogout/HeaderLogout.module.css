@@ -1,0 +1,12 @@
+.Logout {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+.Title h1 {
+  font-size: 30px;
+  margin: 0px;
+  padding: 10px;
+  font-family: sans-serif;
+  font-weight: 400;
+}
